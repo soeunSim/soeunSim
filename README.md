@@ -11,29 +11,28 @@
 <br/>
 
 ## Projects
-#### ImagePlace [[🔗레포지토리]](https://github.com/soeunSim/ImagePlace) [[🔗배포사이트]](https://app.myimageplace.com/)
+#### ImagePlace [[🔗레포지토리]](https://github.com/soeunSim/ImagePlace) [[🔗배포 사이트]](https://app.myimageplace.com/)
 > ##### 개인 프로젝트 (총 3주, 1주 기획 / 2주 기능 개발) 
 >
 > 일회성으로 고유한 URL을 제공하는 이미지 호스팅 웹 사이트입니다.<br />
-> 가벼운 자르기 편집기능을 지원하고 있습니다.
+> 호스팅 서비스와 동시에 가벼운 자르기 편집기능을 지원하고 있습니다.
 
-#### UrLink [[🔗 클라이언트 레포지토리]](https://github.com/ECMA-393/UrLink-Extension) [[🔗 서버 레포지토리]](https://github.com/ECMA-393/UrLink-Crawling-Server)  [[🔗 익스텐션 다운로드]](https://chromewebstore.google.com/detail/urlink/ahfnojpakpdiddbnafbmjngbifalkaeh?hl=ko&utm_source=ext_sidebar)
-> ##### 팀 프로젝트 (총 3주, 1주 기획 / 2주 기능 개발 / 2차 추가 개발 완료) 
+#### UrLink [[🔗 익스텐 레포지토리]](https://github.com/soeunSim/UrLink-Extension) [[🔗 서버 레포지토리]](https://github.com/soeunSim/UrLink-Crawling-Server)  [[🔗 웹스토어 바로가기]](https://chromewebstore.google.com/detail/urlink/ahfnojpakpdiddbnafbmjngbifalkaeh?hl=ko&utm_source=ext_sidebar)
+> ##### 팀 프로젝트 (총 3주, 기획 1주 / 핵심 기능 개발 2주 / 2차 추가 개발 진행완료) 
 >
 > 사용자의 북마크 내에 키워드를 찾아주는 크롬 익스텐션입니다.<br />
 > 크롤링을 활용하여 북마크된 URL 내에서 사용자가 검색한 키워드를 추출한 후, 이를 목록으로 정리해 제공합니다.<br />
 
 ## Skills
-<div style="text-align: left;">
-    <div style="margin: 0; text-align: left;" "text-align: left;"> 
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
-          <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-          </div>
-    </div>
+<div style="margin: ; text-align: left;" "text-align: left;"> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+</div>
+
