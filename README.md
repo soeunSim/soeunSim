@@ -17,7 +17,7 @@
 > 일회성으로 고유한 URL을 제공하는 이미지 호스팅 웹 사이트입니다.<br />
 > 호스팅 서비스와 동시에 가벼운 자르기 편집기능을 지원하고 있습니다.
 
-#### UrLink [[🔗 익스텐 레포지토리]](https://github.com/soeunSim/UrLink-Extension) [[🔗 서버 레포지토리]](https://github.com/soeunSim/UrLink-Crawling-Server)  [[🔗 웹스토어 바로가기]](https://chromewebstore.google.com/detail/urlink/ahfnojpakpdiddbnafbmjngbifalkaeh?hl=ko&utm_source=ext_sidebar)
+#### UrLink [[🔗 익스텐션 레포지토리]](https://github.com/soeunSim/UrLink-Extension) [[🔗 서버 레포지토리]](https://github.com/soeunSim/UrLink-Crawling-Server)  [[🔗 웹스토어 바로가기]](https://chromewebstore.google.com/detail/urlink/ahfnojpakpdiddbnafbmjngbifalkaeh?hl=ko&utm_source=ext_sidebar)
 > ##### 팀 프로젝트 (총 3주, 기획 1주 / 핵심 기능 개발 2주 / 2차 추가 개발 진행완료) 
 >
 > 사용자의 북마크 내에 키워드를 찾아주는 크롬 익스텐션입니다.<br />
