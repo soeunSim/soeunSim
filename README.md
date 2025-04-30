@@ -6,7 +6,7 @@
 *I hope to continue learning steadily, gaining experience, and becoming a developer who can help both users and the team.*
 <br/>
 <br/>
-[[✉️이메일]](mailto:sesim0909@gmail.com)  [[✍️학습기록 노션]](https://mammoth-syrup-d21.notion.site/21f6d80b8d604bfe928e503e6a0f6674?pvs=4)
+[[✉️이메일]](mailto:euns127@gmail.com)  [[✍️학습기록 노션]](https://mammoth-syrup-d21.notion.site/15c8b15bc85b8007b2e6e366999383f5)
 <br/>
 <br/>
 
